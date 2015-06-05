@@ -1,0 +1,7 @@
+/* local additions to base style */
+
+.alert-warning {
+    background-image: linear-gradient(to bottom, #FCF8E3 0px, #F8EFC0 100%);
+    background-repeat: repeat-x;
+    border-color: #F5E79E;
+}
