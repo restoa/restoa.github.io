@@ -90,14 +90,27 @@ REST-OA support.
 
 ### Biomedical entity recognition resources
 
-TODO
+The COMPARTMENTS, TISSUES, DISEASES and ORGANISMS resources contain
+the results of entity recognition on the biomedical literature for the
+purpose of linking proteins to their subcellular localizations, the
+tissues in which they are involved, and the diseases they are
+associated with.
 
-* Homepage: <https://TODO.org>
+* Homepage: <http://jensenlab.org/>
+* Example: [visualize COMPARTMENTS annotations](http://weaver.nlplab.org:7000/explore?url=http%3A//compartments.jensenlab.org/document/24177916/annotations&doc=http%3A//compartments.jensenlab.org/document/24177916&style=visualize)
+* Example: [visualize TISSUES annotations](http://weaver.nlplab.org:7000/explore?url=http%3A//tissues.jensenlab.org/document/25343516/annotations&doc=http%3A//tissues.jensenlab.org/document/25343516&style=visualize)
+* Example: [visualize DISEASES annotations](http://weaver.nlplab.org:7000/explore?url=http%3A//diseases.jensenlab.org/document/22438824/annotations&doc=http%3A//diseases.jensenlab.org/document/22438824&style=visualize)
+* Example: [visualize ORGANISMS annotations](http://weaver.nlplab.org:7000/explore?url=http%3A//organisms.jensenlab.org/document/20164077/annotations&doc=http%3A//organisms.jensenlab.org/document/20164077&style=visualize)
 
 ### EVEX
 
-TODO
+EVEX is a text mining resource that covers the entire publicly
+available biomedical literature and contains over 40 million
+bio-molecular events among more than 76 million automatically
+extracted gene/protein name mentions enriched with gene normalization
+results.
 
 * Homepage: <http://evexdb.org/>
+* Example: [retrieve EVEX annotations](http://beta.evexdb.org/oa/document/pubmed/17685393/annotations/)
 
 ---
