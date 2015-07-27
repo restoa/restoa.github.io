@@ -111,6 +111,6 @@ extracted gene/protein name mentions enriched with gene normalization
 results.
 
 * Homepage: <http://evexdb.org/>
-* Example: [retrieve EVEX annotations](http://beta.evexdb.org/oa/document/pubmed/17685393/annotations/)
+* Example: [visualize EVEX annotations](http://weaver.nlplab.org:7000/explore?url=http%3A//beta.evexdb.org/oa/document/pubmed/17685393/annotations/&doc=http%3A//beta.evexdb.org/oa/document/pubmed/17685393/&style=visualize)
 
 ---
